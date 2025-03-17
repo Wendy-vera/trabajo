@@ -1,0 +1,75 @@
+
+body {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div {
+    width: 200px; 
+    height: 200px;
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-content: center;
+}
+
+    
+.uno img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 0)); }
+.dos img { filter: drop-shadow(5px 5px 10px rgb(255, 153, 0)); }
+.tres img { filter: drop-shadow(5px 5px 10px rgb(255, 251, 0)); }
+.cuatro img { filter: drop-shadow(5px 5px 10px rgb(162, 255, 0)); }
+.cinco img { filter: drop-shadow(5px 5px 10px rgb(0, 255, 76)); }
+.seis img { filter: drop-shadow(5px 5px 10px rgb(0, 179, 255)); }
+.siete img { filter: drop-shadow(5px 5px 10px rgb(0, 81, 255)); }
+.ocho img { filter: drop-shadow(5px 5px 10px rgb(179, 0, 255)); }
+.nueve img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 242)); }
+.diez img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 130)); }
+.once img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 0)); }
+.doce img { filter: drop-shadow(5px 5px 10px rgb(255, 153, 0)); }
+.trece img { filter: drop-shadow(5px 5px 10px rgb(255, 251, 0)); }
+.catorce img { filter: drop-shadow(5px 5px 10px rgb(162, 255, 0)); }
+.quince img { filter: drop-shadow(5px 5px 10px rgb(0, 255, 76)); }
+.diesiseis img { filter: drop-shadow(5px 5px 10px rgb(0, 179, 255)); }
+.diesiete img { filter: drop-shadow(5px 5px 10px rgb(0, 81, 255)); }
+.diesiocho img { filter: drop-shadow(5px 5px 10px rgb(179, 0, 255)); }
+.diesinueve img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 242)); }
+.veinte img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 130)); }
+.veintiuno img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 0)); }
+.veintidos img { filter: drop-shadow(5px 5px 10px rgb(255, 153, 0)); }
+.veintitres img { filter: drop-shadow(5px 5px 10px rgb(255, 251, 0)); }
+.veinticuatro img { filter: drop-shadow(5px 5px 10px rgb(162, 255, 0)); }
+.veinticinco img { filter: drop-shadow(5px 5px 10px rgb(0, 255, 76)); }
+.veintiseis img { filter: drop-shadow(5px 5px 10px rgb(0, 179, 255)); }
+.veintisiete img { filter: drop-shadow(5px 5px 10px rgb(0, 81, 255)); }
+.veintiocho img { filter: drop-shadow(5px 5px 10px rgb(179, 0, 255)); }
+.veintinueve img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 242)); }
+.treinta img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 130)); }
+.treintauno img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 0)); }
+.treintados img { filter: drop-shadow(5px 5px 10px rgb(255, 153, 0)); }
+.treintatres img { filter: drop-shadow(5px 5px 10px rgb(255, 251, 0)); }
+.treintacuatro img { filter: drop-shadow(5px 5px 10px rgb(162, 255, 0)); }
+.treintacinco img { filter: drop-shadow(5px 5px 10px rgb(0, 255, 76)); }
+.treintaseis img { filter: drop-shadow(5px 5px 10px rgb(0, 179, 255)); }
+.treintasiete img { filter: drop-shadow(5px 5px 10px rgb(0, 81, 255)); }
+.treintaocho img { filter: drop-shadow(5px 5px 10px rgb(179, 0, 255)); }
+.treintanueve img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 242)); }
+.cuarenta img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 130)); }
+.cuarentauno img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 0)); }
+.cuarentados img { filter: drop-shadow(5px 5px 10px rgb(255, 153, 0)); }
+.cuarentatres img { filter: drop-shadow(5px 5px 10px rgb(255, 251, 0)); }
+.cuarentacuatro img { filter: drop-shadow(5px 5px 10px rgb(162, 255, 0)); }
+.cuarentacinco img { filter: drop-shadow(5px 5px 10px rgb(0, 255, 76)); }
+.cuarentaseis img { filter: drop-shadow(5px 5px 10px rgb(0, 179, 255)); }
+.cuarentasiete img { filter: drop-shadow(5px 5px 10px rgb(0, 81, 255)); }
+.cuarentaocho img { filter: drop-shadow(5px 5px 10px rgb(179, 0, 255)); }
+.cuarentanueve img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 242)); }
+.cincuenta img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 130)); }
+.cincuentauno img { filter: drop-shadow(5px 5px 10px rgb(255, 0, 0)); }
+.cincuentados img { filter: drop-shadow(5px 5px 10px rgb(255, 153, 0)); }
+.cincuentatres img { filter: drop-shadow(5px 5px 10px rgb(255, 251, 0)); }
+.cincuentacuatro img { filter: drop-shadow(5px 5px 10px rgb(162, 255, 0)); }
+.cincuentacinco img { filter: drop-shadow(5px 5px 10px rgb(0, 255, 76)); }
+.cincuentaseis img { filter: drop-shadow(5px 5px 10px rgb(0, 179, 255)); }
+.cincuentasiete img { filter: drop-shadow(5px 5px 10px rgb(0, 81, 255)); }
+.cincuentaocho img { filter: drop-shadow(5px 5px 10px rgb(179, 0, 255)); }
